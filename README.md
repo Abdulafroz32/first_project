@@ -1,2 +1,2 @@
 #This project focuses on developing a data-driven solution to predict car rental cancellations for San Francisco Auto Rental (SAR). SAR has been facing significant operational challenges due to a high rate of ride cancellations.
-The main objective is to develop accurate predictive models that can forecast ride cancellations at SAR. By leveraging historical data, the project aims to identify key factors contributing to cancellations and create actionable insights
+The main objective is to develop accurate predictive models that can forecast ride cancellations at SAR. By leveraging historical data, the project aims to identify key factors contributing to cancellations and create actionable insights.
